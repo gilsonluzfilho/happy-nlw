@@ -1,2 +1,5 @@
 # happy-nlw
-Projeto desenvolvido durante o evento Next Level Week (NLW) ministrado pela Rocketseat.
+
+Projeto Full-Stack desenvolvido durante o evento Next Level Week (NLW) ministrado pela Rocketseat.
+
+Tecnologias usadas: HTML, CSS, JAVASCRIPT, Handlebars.
